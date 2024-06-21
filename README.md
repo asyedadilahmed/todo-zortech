@@ -17,9 +17,11 @@ Todo app
    cd todo-zortech
 
 2. Install dependencies
+    ```bash
     npm install
 
 3. Run the application
+    ```bash
     npm run start
 
 # Design and Architectural Choices
